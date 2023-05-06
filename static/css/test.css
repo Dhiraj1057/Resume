@@ -8,7 +8,7 @@ body {
     left: 0;
     top: 6dvw;
     background-color: #05BFDB;
-    width: 100dvw;
+    width: 100vw;
     height: 16dvw;
 }
 
@@ -41,7 +41,7 @@ img {
 
 .left-side {
     background-color: #2E3840;
-    width: 36dvw;
+    width: 36vw;
     overflow: auto;
 }
 
@@ -60,7 +60,7 @@ td {
 
 .right-side {
     background-color: white;
-    width: 64dvw;
+    width: 64vw;
 }
 
 .info {
